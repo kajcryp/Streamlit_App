@@ -1,0 +1,735 @@
+product_group,automated_projects,delivery_label,delivery_channel,campaign_code,total_sends
+product 4,Campaign 628,Campaign 628_IU11,Email,JX18,14
+product 5,Campaign BL,Campaign BL_AT40,Email,KA50,4
+product 3,Campaign 742,Campaign 742_FG62,Email,VV38,13
+product 3,Campaign 676,Campaign 676_UV78,Email,XG51,34
+product 3,Campaign 153,Campaign 153_WM94,Mobile (SMS),KJ99,324
+product 5,Campaign AY,Campaign AY_VU33,Web Message,XY34,9
+product 1,Campaign 426,Campaign 426_GH76,Mobile (SMS),KD63,23
+product 1,Campaign N,Campaign N_PD44,Web Message,JH33,4
+product 1,Campaign N,Campaign N_VP43,Web Message,NJ24,4
+product 1,Campaign N,Campaign N_JS23,Web Message,BX45,4
+product 3,Campaign 390,Campaign 390_BJ49,Email,KA84,924
+product 1,Campaign A,Campaign A_CZ26,Email,VF56,102
+product 3,Campaign 892,Campaign 892_PR53,Email,BZ51,36
+product 1,Campaign K,Campaign K_UG16,Web Message,MB36,8
+product 1,Campaign N,Campaign N_ZB61,Web Message,ID85,4
+product 1,Campaign H,Campaign H_HM35,Android channel,SL52,5
+product 5,Campaign 693,Campaign 693_NQ24,Email,VF85,11
+product 5,Campaign Y,Campaign Y_NC10,Email,BO48,99
+product 5,Campaign Y,Campaign Y_ST48,Email,XB42,104
+product 2,Campaign 490,Campaign 490_VS45,iOS channel,IH43,6
+product 1,Campaign BT,Campaign BT_JO65,Mobile (SMS),QC44,4
+product 3,Campaign 104,Campaign 104_KE34,Email,RW72,13
+product 2,Campaign K,Campaign K_GA61,Web Message,XU58,4
+product 1,Campaign 57,Campaign 57_ER84,Email,XU59,25
+product 3,Campaign 543,Campaign 543_AH35,Email,JG85,128
+product 4,Campaign 295,Campaign 295_SU53,Email,CY58,30
+product 1,Campaign 762,Campaign 762_XH34,Email,GW88,38
+product 5,Campaign 380,Campaign 380_UY16,Email,FP93,5
+product 1,Campaign BV,Campaign BV_GX32,Email,LH22,5
+product 1,Campaign 181,Campaign 181_NR50,Email,DI95,47
+product 4,Campaign 355,Campaign 355_RK24,Email,MG36,31
+product 5,Campaign X,Campaign X_TL62,Email,EX72,14
+product 4,Campaign 693,Campaign 693_OR24,Email,TF66,28
+product 3,Campaign 852,Campaign 852_SM54,Email,MB98,9
+product 1,Campaign A,Campaign A_ZP40,Email,RH67,31
+product 3,Campaign 687,Campaign 687_DG24,Email,JB31,70
+product 3,Campaign 700,Campaign 700_WF56,Mobile (SMS),WA36,220
+product 3,Campaign 175,Campaign 175_IX10,Email,NU52,60
+product 1,Campaign 401,Campaign 401_OY38,Android channel,TJ82,9
+product 4,Campaign 969,Campaign 969_AQ55,Email,GK48,31
+product 2,Campaign A,Campaign A_JI79,Email,IH23,7
+product 3,Campaign 88,Campaign 88_XR32,Email,JH49,462
+product 5,Campaign X,Campaign X_QI31,Email,KQ41,118
+product 3,Campaign 871,Campaign 871_AY91,Email,JB86,26
+product 3,Campaign 881,Campaign 881_YQ81,Email,LJ43,99
+product 1,Campaign A,Campaign A_WR34,Email,NZ44,102
+product 4,Campaign 879,Campaign 879_KL68,Email,TD29,26
+product 3,Campaign 866,Campaign 866_WL85,Email,SZ53,16
+product 1,Campaign K,Campaign K_ZR80,Email,XS48,4
+product 2,Campaign A,Campaign A_SM53,Email,SJ84,31
+product 3,Campaign 421,Campaign 421_TS96,Email,IA30,10
+product 2,Campaign N,Campaign N_YK80,Web Message,FS24,4
+product 5,Campaign 245,Campaign 245_XL93,Web Message,IE61,12
+product 3,Campaign 649,Campaign 649_FD45,Email,KB86,17
+product 3,Campaign 780,Campaign 780_VQ68,Email,FM24,15
+product 5,Campaign 254,Campaign 254_OI80,Email,AC81,5
+product 3,Campaign 706,Campaign 706_VZ45,Email,HC89,66
+product 4,Campaign 282,Campaign 282_JQ62,Email,WR11,29
+product 5,Campaign BB,Campaign BB_EV42,Email,VP87,81
+product 3,Campaign 880,Campaign 880_WM32,Email,CB83,6
+product 3,Campaign 749,Campaign 749_LQ13,Web Message,SS47,30
+product 3,Campaign 532,Campaign 532_RB33,Email,TA60,30
+product 1,Campaign K,Campaign K_ZN42,Web Message,JR79,6
+product 4,Campaign 217,Campaign 217_MY98,Email,MF63,28
+product 2,Campaign 226,Campaign 226_PY80,iOS channel,VV65,14
+product 3,Campaign 383,Campaign 383_KG86,Email,TU83,31
+product 4,Campaign 72,Campaign 72_UE96,Email,NZ31,31
+product 4,Campaign 183,Campaign 183_WL81,Email,QX62,7
+product 2,Campaign A,Campaign A_IM90,Email,CT52,7
+product 5,Campaign A,Campaign A_IE62,Email,UT44,4
+product 5,Campaign X,Campaign X_IZ32,Mobile (SMS),KA84,19
+product 3,Campaign 868,Campaign 868_IG47,Email,OW10,102
+product 1,Campaign N,Campaign N_ZY57,Web Message,BR32,11
+product 5,Campaign X,Campaign X_XZ75,Email,UW83,15
+product 3,Campaign 995,Campaign 995_KJ69,Email,DU60,27
+product 3,Campaign 291,Campaign 291_TA17,Email,EP68,8
+product 3,Campaign 146,Campaign 146_BM12,Email,HB39,31
+product 3,Campaign BH,Campaign BH_EL78,Web Message,KH28,221
+product 1,Campaign N,Campaign N_PK96,Web Message,AZ50,4
+product 3,Campaign 567,Campaign 567_VA52,Email,LY28,31
+product 1,Campaign K,Campaign K_DL82,Web Message,KZ21,8
+product 5,Campaign BL,Campaign BL_OJ39,Email,VG29,255
+product 3,Campaign 0,Campaign 0_SV66,Email,OT68,57
+product 5,Campaign 275,Campaign 275_DE34,Email,EG50,4
+product 1,Campaign N,Campaign N_UJ77,Web Message,XS96,4
+product 3,Campaign 228,Campaign 228_ZP37,Email,PR68,111
+product 1,Campaign J,Campaign J_HR45,Email,FC85,26
+product 2,Campaign 346,Campaign 346_KN56,iOS channel,JK99,5
+product 1,Campaign J,Campaign J_QK79,Email,FG21,25
+product 5,Campaign 60,Campaign 60_NK72,Email,BY31,4
+product 2,Campaign K,Campaign K_FB83,Web Message,MD39,5
+product 2,Campaign 885,Campaign 885_TR86,iOS channel,RO45,10
+product 3,Campaign 675,Campaign 675_CI66,Email,NV11,56
+product 4,Campaign 576,Campaign 576_XZ44,Email,ZD68,31
+product 4,Campaign 990,Campaign 990_ZA86,Email,ZH84,31
+product 3,Campaign 298,Campaign 298_HD58,Email,BI85,31
+product 2,Campaign N,Campaign N_FD52,Web Message,BC93,6
+product 3,Campaign 318,Campaign 318_GD76,Email,MC41,5
+product 2,Campaign N,Campaign N_YP14,Web Message,RI86,4
+product 5,Campaign 861,Campaign 861_GB29,Web Message,PW64,4
+product 1,Campaign N,Campaign N_RP57,Web Message,QE87,4
+product 4,Campaign 65,Campaign 65_VV79,Email,MX11,29
+product 5,Campaign 166,Campaign 166_YG36,Web Message,WV83,11
+product 5,Campaign Y,Campaign Y_CD49,Android channel,MN24,99
+product 3,Campaign 645,Campaign 645_GQ98,Email,NJ54,36
+product 2,Campaign A,Campaign A_MG32,Email,CL91,31
+product 2,Campaign N,Campaign N_RY51,Email,MO25,4
+product 5,Campaign BL,Campaign BL_IZ84,Web Message,OB12,102
+product 1,Campaign A,Campaign A_JD17,Email,GR68,22
+product 5,Campaign X,Campaign X_UL68,Email,GB71,54
+product 2,Campaign K,Campaign K_DC88,Web Message,HR92,5
+product 1,Campaign D,Campaign D_RM25,Email,PC58,31
+product 1,Campaign L,Campaign L_EO97,Email,SH88,8
+product 1,Campaign 878,Campaign 878_IL44,Mobile (SMS),HM25,12
+product 1,Campaign M,Campaign M_OF90,Email,YK40,5
+product 1,Campaign M,Campaign M_XT63,Email,SW18,5
+product 3,Campaign 315,Campaign 315_IZ60,Email,EK82,107
+product 3,Campaign 707,Campaign 707_CA68,Email,LO63,4
+product 4,Campaign 414,Campaign 414_QX99,Email,DU14,31
+product 1,Campaign N,Campaign N_GS20,Web Message,NU43,4
+product 3,Campaign 748,Campaign 748_FN15,Email,GB61,21
+product 1,Campaign M,Campaign M_KN19,Email,BO34,5
+product 4,Campaign 977,Campaign 977_NW79,Email,HO34,31
+product 5,Campaign 496,Campaign 496_TG70,Email,QY19,4
+product 5,Campaign X,Campaign X_BY97,Email,YT90,31
+product 1,Campaign A,Campaign A_XF41,Email,MO58,31
+product 4,Campaign 131,Campaign 131_RC94,Email,HB21,30
+product 1,Campaign BR,Campaign BR_MB20,Android channel,FM34,21
+product 3,Campaign BH,Campaign BH_EV37,Email,KE36,259
+product 3,Campaign 165,Campaign 165_ST14,Email,HK64,22
+product 3,Campaign 63,Campaign 63_MF78,Email,CT12,12
+product 3,Campaign 835,Campaign 835_DH38,Email,CH81,31
+product 1,Campaign 540,Campaign 540_NO11,Web Message,DM63,6
+product 3,Campaign BH,Campaign BH_NI88,Email,ZC47,259
+product 1,Campaign J,Campaign J_PY21,Email,VI86,26
+product 1,Campaign N,Campaign N_UE79,Web Message,VO79,4
+product 3,Campaign 452,Campaign 452_NW75,Email,DK11,385
+product 4,Campaign 531,Campaign 531_UW15,Email,TL46,31
+product 5,Campaign X,Campaign X_ZT97,Email,QC44,226
+product 1,Campaign BR,Campaign BR_BP14,iOS channel,YR37,25
+product 1,Campaign I,Campaign I_NS57,iOS channel,ON73,4
+product 3,Campaign 560,Campaign 560_KR56,Email,CW54,30
+product 4,Campaign 465,Campaign 465_SV33,Email,UU50,31
+product 5,Campaign Y,Campaign Y_NI69,Email,EZ15,104
+product 4,Campaign 459,Campaign 459_KB55,Email,NK87,8
+product 1,Campaign 468,Campaign 468_YT66,iOS channel,HY25,30
+product 5,Campaign Y,Campaign Y_WF12,Email,QN35,104
+product 2,Campaign N,Campaign N_YS57,Web Message,YR63,5
+product 5,Campaign X,Campaign X_UK90,Mobile (SMS),HT49,30
+product 3,Campaign 793,Campaign 793_CK82,Email,NQ94,7
+product 3,Campaign 36,Campaign 36_TI38,Email,VK14,10
+product 3,Campaign 713,Campaign 713_EB41,Email,ZY70,61
+product 1,Campaign D,Campaign D_DH99,Email,TM20,9
+product 3,Campaign 625,Campaign 625_HF50,Web Message,MD47,31
+product 1,Campaign N,Campaign N_MM42,Web Message,ND54,4
+product 1,Campaign N,Campaign N_FY94,Web Message,LF48,7
+product 1,Campaign N,Campaign N_RJ30,Web Message,PU15,7
+product 1,Campaign 894,Campaign 894_HA83,Email,GT65,4
+product 1,Campaign A,Campaign A_XK57,Email,KF30,31
+product 3,Campaign 384,Campaign 384_GR45,Email,FD86,31
+product 1,Campaign A,Campaign A_UI22,Email,VL72,23
+product 3,Campaign 923,Campaign 923_DK47,Email,QZ46,15
+product 1,Campaign 778,Campaign 778_EB81,Mobile (SMS),LG26,26
+product 2,Campaign 698,Campaign 698_JO67,iOS channel,BE70,19
+product 4,Campaign 103,Campaign 103_OK11,Email,EC83,29
+product 4,Campaign 85,Campaign 85_KN96,Email,FI77,8
+product 2,Campaign 997,Campaign 997_RF29,Android channel,JE59,4
+product 4,Campaign 583,Campaign 583_RL56,Email,GD94,31
+product 3,Campaign 230,Campaign 230_EM25,Email,PL49,28
+product 5,Campaign Y,Campaign Y_LA91,Mobile (SMS),FY28,9
+product 2,Campaign K,Campaign K_PB53,Web Message,TR78,5
+product 3,Campaign 65,Campaign 65_KQ64,Email,HO63,55
+product 3,Campaign 408,Campaign 408_PJ99,Mobile (SMS),OU42,92
+product 1,Campaign A,Campaign A_DJ53,Email,ZH83,27
+product 5,Campaign Y,Campaign Y_HV46,Email,VL50,24
+product 1,Campaign L,Campaign L_ZA94,Email,PD86,9
+product 2,Campaign N,Campaign N_FU16,iOS channel,SY88,16
+product 1,Campaign 244,Campaign 244_UL51,Email,MP29,4
+product 1,Campaign J,Campaign J_DM83,Email,ZV22,30
+product 3,Campaign 355,Campaign 355_QJ96,Email,DH44,16
+product 2,Campaign A,Campaign A_UF96,Email,IE56,84
+product 4,Campaign 390,Campaign 390_VQ41,Email,TN55,31
+product 3,Campaign 957,Campaign 957_KP38,Web Message,LO52,28
+product 4,Campaign 718,Campaign 718_JU46,Email,YV27,20
+product 3,Campaign 859,Campaign 859_ES99,Email,HW47,18
+product 4,Campaign 170,Campaign 170_IS12,Email,IY38,25
+product 3,Campaign 667,Campaign 667_NG84,Email,DA74,7
+product 2,Campaign N,Campaign N_AS78,Web Message,QW87,5
+product 5,Campaign BB,Campaign BB_FG89,Email,YF86,19
+product 1,Campaign N,Campaign N_CP70,iOS channel,PX35,19
+product 2,Campaign N,Campaign N_XM62,Email,NO45,4
+product 3,Campaign X,Campaign X_UI38,Email,UU84,29
+product 5,Campaign 718,Campaign 718_OV84,Email,WR30,4
+product 1,Campaign M,Campaign M_MP58,Email,JR77,5
+product 1,Campaign N,Campaign N_MS53,Web Message,QE23,4
+product 3,Campaign BH,Campaign BH_PG82,Web Message,PB62,33
+product 5,Campaign A,Campaign A_IM34,Email,HR96,5
+product 1,Campaign L,Campaign L_BI25,Email,YQ48,13
+product 3,Campaign 478,Campaign 478_SO47,Email,LL44,18
+product 5,Campaign X,Campaign X_IN38,Email,VM75,17
+product 3,Campaign 607,Campaign 607_TD76,Email,YN17,116
+product 5,Campaign BL,Campaign BL_BP35,Email,SA89,255
+product 3,Campaign 348,Campaign 348_AG36,Email,HJ42,17
+product 1,Campaign L,Campaign L_LX89,Mobile (SMS),KA42,26
+product 1,Campaign A,Campaign A_WT62,Email,BN99,30
+product 3,Campaign 936,Campaign 936_GC12,Email,UA53,62
+product 3,Campaign 897,Campaign 897_JI35,Email,AY61,50
+product 3,Campaign BH,Campaign BH_TD30,Email,BF60,258
+product 1,Campaign 30,Campaign 30_DY22,iOS channel,LK10,9
+product 3,Campaign BH,Campaign BH_YW79,Email,ZM96,256
+product 4,Campaign 737,Campaign 737_WE81,Email,GJ79,31
+product 5,Campaign BA,Campaign BA_DJ68,Email,EB38,240
+product 2,Campaign M,Campaign M_PL27,Email,JS17,5
+product 5,Campaign BB,Campaign BB_UF76,Mobile (SMS),TZ99,31
+product 3,Campaign BH,Campaign BH_FD79,Web Message,AW64,257
+product 1,Campaign D,Campaign D_JP83,Email,DJ41,9
+product 1,Campaign Y,Campaign Y_ZT48,Email,VH55,18
+product 5,Campaign A,Campaign A_TH58,Email,VA90,5
+product 3,Campaign 563,Campaign 563_SV21,Email,EU26,36
+product 1,Campaign 850,Campaign 850_WB99,Android channel,TX98,29
+product 1,Campaign N,Campaign N_NY94,Web Message,PP28,4
+product 5,Campaign Y,Campaign Y_QP27,Email,GI46,104
+product 3,Campaign 460,Campaign 460_AQ10,Email,FI57,64
+product 4,Campaign 346,Campaign 346_GI58,Email,QT90,25
+product 4,Campaign 814,Campaign 814_IC35,Email,IO40,30
+product 2,Campaign N,Campaign N_EJ65,Web Message,CK77,11
+product 3,Campaign 127,Campaign 127_PO76,Email,FS35,934
+product 3,Campaign 506,Campaign 506_GQ37,Email,NH50,30
+product 5,Campaign 738,Campaign 738_EE53,Email,PE54,217
+product 3,Campaign 184,Campaign 184_ZU85,Email,QO13,57
+product 1,Campaign A,Campaign A_RE43,Email,OY51,31
+product 3,Campaign 690,Campaign 690_JZ40,Email,XO23,31
+product 5,Campaign X,Campaign X_MD47,Email,JS41,92
+product 5,Campaign 122,Campaign 122_YW49,Email,AE66,4
+product 5,Campaign Y,Campaign Y_QR54,Email,PH12,104
+product 5,Campaign BL,Campaign BL_PZ49,Email,RX71,255
+product 5,Campaign BL,Campaign BL_JW62,Email,FK33,255
+product 5,Campaign BB,Campaign BB_ZP10,Email,XI30,159
+product 5,Campaign 178,Campaign 178_ZP37,Email,AR45,4
+product 1,Campaign 941,Campaign 941_NL35,Email,ZF58,13
+product 1,Campaign N,Campaign N_PZ45,Web Message,XI83,4
+product 4,Campaign 284,Campaign 284_BD73,Email,NW57,28
+product 5,Campaign BB,Campaign BB_WC12,Email,UV90,42
+product 4,Campaign 863,Campaign 863_MM58,Email,VC12,28
+product 1,Campaign A,Campaign A_CA72,Email,YE26,31
+product 2,Campaign Y,Campaign Y_JO78,Email,WQ71,16
+product 1,Campaign 746,Campaign 746_GE18,Web Message,NJ54,4
+product 2,Campaign N,Campaign N_OA35,Web Message,SD92,4
+product 1,Campaign A,Campaign A_ZB49,Email,OB96,31
+product 5,Campaign 620,Campaign 620_OF76,Email,HB79,4
+product 5,Campaign BB,Campaign BB_PR97,Mobile (SMS),PB65,31
+product 2,Campaign A,Campaign A_DA77,Email,JX71,7
+product 4,Campaign 189,Campaign 189_OS13,Email,PS26,31
+product 4,Campaign 782,Campaign 782_LQ73,Email,OL51,13
+product 3,Campaign 582,Campaign 582_MZ20,Email,BW62,30
+product 3,Campaign 75,Campaign 75_EN56,Email,JW92,118
+product 5,Campaign 221,Campaign 221_JS70,Web Message,XS15,21
+product 3,Campaign BH,Campaign BH_IK80,Email,IZ38,259
+product 3,Campaign 587,Campaign 587_VX98,Email,DW12,936
+product 2,Campaign N,Campaign N_WC53,Email,RJ87,12
+product 1,Campaign L,Campaign L_UP45,Mobile (SMS),IL42,15
+product 5,Campaign 36,Campaign 36_KB50,Email,MB95,4
+product 1,Campaign N,Campaign N_SC97,Web Message,MP47,4
+product 5,Campaign Y,Campaign Y_LN87,Email,IL24,104
+product 5,Campaign X,Campaign X_KZ21,Mobile (SMS),MB68,168
+product 5,Campaign X,Campaign X_KB88,Email,KR17,28
+product 3,Campaign 737,Campaign 737_MC96,Email,UR79,863
+product 5,Campaign X,Campaign X_OM52,Email,BE18,76
+product 2,Campaign Y,Campaign Y_MB81,iOS channel,KF67,4
+product 1,Campaign N,Campaign N_TS14,Web Message,MK22,4
+product 2,Campaign 260,Campaign 260_TJ50,iOS channel,NP71,5
+product 3,Campaign BG,Campaign BG_XZ47,Web Message,YZ38,590
+product 5,Campaign Y,Campaign Y_SV23,Web Message,TE12,104
+product 1,Campaign L,Campaign L_VI20,Mobile (SMS),XP27,4
+product 4,Campaign 491,Campaign 491_PQ34,Email,GH39,10
+product 5,Campaign Y,Campaign Y_KL65,Mobile (SMS),CB22,89
+product 3,Campaign 457,Campaign 457_PK81,Email,QC76,15
+product 5,Campaign 998,Campaign 998_EH41,Email,HP75,5
+product 3,Campaign 998,Campaign 998_AI34,Email,FK67,17
+product 5,Campaign 928,Campaign 928_LY73,Email,JR10,234
+product 3,Campaign BD,Campaign BD_ZH34,Web Message,BC28,90
+product 1,Campaign A,Campaign A_PT70,Email,FW85,24
+product 5,Campaign 155,Campaign 155_MM49,Email,TL45,6
+product 5,Campaign X,Campaign X_WB52,Mobile (SMS),TA19,9
+product 5,Campaign BB,Campaign BB_BH20,Email,KJ35,89
+product 5,Campaign Y,Campaign Y_OQ96,Email,ET21,104
+product 3,Campaign X,Campaign X_CC42,Email,GO85,16
+product 4,Campaign 486,Campaign 486_XH54,Email,SY17,5
+product 1,Campaign 173,Campaign 173_OI72,Email,OP46,5
+product 3,Campaign 672,Campaign 672_ZE64,Email,JK30,6
+product 1,Campaign BL,Campaign BL_SM90,Web Message,DS17,104
+product 5,Campaign Y,Campaign Y_XX61,Web Message,IO76,101
+product 3,Campaign 421,Campaign 421_CT49,Email,LV95,18
+product 3,Campaign 677,Campaign 677_LU96,Email,WE15,4
+product 4,Campaign 799,Campaign 799_EK89,Email,MD80,11
+product 1,Campaign 241,Campaign 241_OR63,Email,CM10,95
+product 5,Campaign 26,Campaign 26_UZ75,Email,IK29,5
+product 3,Campaign 439,Campaign 439_AS95,Email,NF71,123
+product 1,Campaign 283,Campaign 283_CD44,Email,AW58,27
+product 4,Campaign 181,Campaign 181_TX92,Email,ZB36,28
+product 5,Campaign BL,Campaign BL_NM16,Web Message,SZ72,104
+product 5,Campaign Y,Campaign Y_JN59,Mobile (SMS),PU64,64
+product 5,Campaign Z,Campaign Z_UE44,Email,VZ82,638
+product 2,Campaign A,Campaign A_QW91,Email,VT44,15
+product 3,Campaign BH,Campaign BH_WR91,Web Message,VF40,59
+product 1,Campaign 532,Campaign 532_UJ72,Web Message,AZ95,4
+product 1,Campaign A,Campaign A_AY20,Email,KI20,102
+product 1,Campaign 8,Campaign 8_LQ82,Android channel,BX85,14
+product 4,Campaign 171,Campaign 171_GY56,Email,PU71,31
+product 5,Campaign BA,Campaign BA_QN14,Email,XV60,246
+product 1,Campaign Y,Campaign Y_FA74,Web Message,CO19,104
+product 5,Campaign Z,Campaign Z_LT55,Email,NQ80,257
+product 3,Campaign 644,Campaign 644_FX80,Email,CW36,65
+product 1,Campaign H,Campaign H_SG19,Android channel,YF72,53
+product 2,Campaign K,Campaign K_DA94,Web Message,VS85,5
+product 3,Campaign 620,Campaign 620_PZ64,Email,TW18,40
+product 1,Campaign N,Campaign N_UQ63,Android channel,FS18,34
+product 3,Campaign 882,Campaign 882_EU80,Email,AF65,21
+product 5,Campaign AU,Campaign AU_HM19,Email,HQ87,19
+product 5,Campaign 778,Campaign 778_OT34,Email,OZ39,4
+product 5,Campaign 478,Campaign 478_FU84,Email,MX96,4
+product 1,Campaign BL,Campaign BL_RV77,Email,DJ31,10
+product 3,Campaign BH,Campaign BH_HM11,Email,MC92,259
+product 3,Campaign 830,Campaign 830_HS88,Email,ZL17,7
+product 5,Campaign 106,Campaign 106_OH58,Email,NI18,5
+product 1,Campaign BR,Campaign BR_RT50,Android channel,XC28,30
+product 1,Campaign A,Campaign A_DG66,Email,YH22,18
+product 5,Campaign A,Campaign A_GX47,Email,NH98,9
+product 4,Campaign 946,Campaign 946_XW91,Email,WH48,31
+product 5,Campaign 603,Campaign 603_ES78,Email,WO71,4
+product 5,Campaign Y,Campaign Y_NP26,Email,GJ99,104
+product 4,Campaign 115,Campaign 115_FW27,Email,MC37,30
+product 3,Campaign 915,Campaign 915_VT71,Email,NG81,66
+product 1,Campaign BR,Campaign BR_VO75,iOS channel,TJ61,30
+product 5,Campaign 865,Campaign 865_YO71,Email,MO69,5
+product 1,Campaign L,Campaign L_MP63,Email,DB31,13
+product 1,Campaign 72,Campaign 72_NN15,Web Message,XA80,4
+product 2,Campaign N,Campaign N_NG25,Web Message,ZV25,6
+product 2,Campaign A,Campaign A_RS19,Email,PR76,31
+product 2,Campaign 266,Campaign 266_KD32,Android channel,FU84,5
+product 2,Campaign A,Campaign A_UP75,Email,XN52,5
+product 3,Campaign AO,Campaign AO_HN20,Mobile (SMS),NL43,190
+product 5,Campaign BL,Campaign BL_ZU11,Email,UV64,255
+product 5,Campaign BC,Campaign BC_TC98,Email,AB65,259
+product 5,Campaign BC,Campaign BC_WC93,Email,NS33,259
+product 5,Campaign X,Campaign X_IO30,Email,DO27,224
+product 4,Campaign 455,Campaign 455_YC71,Email,WQ86,16
+product 3,Campaign 208,Campaign 208_QI20,Email,CH67,42
+product 1,Campaign Y,Campaign Y_TI12,iOS channel,RL77,105
+product 1,Campaign 613,Campaign 613_CZ11,Email,KF56,28
+product 1,Campaign M,Campaign M_ES39,Email,UW35,5
+product 2,Campaign N,Campaign N_PG95,Android channel,GH81,33
+product 1,Campaign A,Campaign A_ZQ48,Email,AL53,23
+product 4,Campaign 341,Campaign 341_TZ98,Email,FH88,29
+product 2,Campaign D,Campaign D_IA29,Email,HZ30,9
+product 4,Campaign 441,Campaign 441_IR46,Email,OS40,7
+product 1,Campaign N,Campaign N_YN66,Web Message,OC28,4
+product 3,Campaign BG,Campaign BG_IU18,Web Message,AM76,17
+product 5,Campaign 375,Campaign 375_AR34,Email,SV96,5
+product 3,Campaign 874,Campaign 874_MK45,Email,WL97,6
+product 3,Campaign 627,Campaign 627_TI77,Email,NA31,105
+product 5,Campaign X,Campaign X_DS68,Email,TU33,20
+product 4,Campaign 597,Campaign 597_YL63,Email,ME83,12
+product 5,Campaign Y,Campaign Y_VD47,Mobile (SMS),KL55,12
+product 1,Campaign 275,Campaign 275_ZJ78,Web Message,WL83,4
+product 3,Campaign 636,Campaign 636_HL99,Email,SP95,120
+product 5,Campaign BC,Campaign BC_OQ78,Email,JK91,259
+product 5,Campaign 638,Campaign 638_BO13,Web Message,IA38,20
+product 2,Campaign 199,Campaign 199_OH93,Android channel,RE94,29
+product 3,Campaign BH,Campaign BH_SH78,Web Message,JJ40,250
+product 3,Campaign 742,Campaign 742_HE27,Mobile (SMS),YP24,64
+product 1,Campaign BN,Campaign BN_VO27,Android channel,IT53,230
+product 2,Campaign M,Campaign M_KX69,Email,IS27,5
+product 5,Campaign Y,Campaign Y_IF16,Email,SF67,104
+product 5,Campaign X,Campaign X_ZO28,Email,XO10,4
+product 3,Campaign 390,Campaign 390_EZ64,Email,NG20,30
+product 1,Campaign J,Campaign J_FS56,Email,PE94,26
+product 5,Campaign Y,Campaign Y_QB25,Email,YT57,24
+product 3,Campaign 703,Campaign 703_BT10,Email,UF90,69
+product 2,Campaign A,Campaign A_EP18,Email,DL25,15
+product 1,Campaign N,Campaign N_DU19,Android channel,SO26,31
+product 3,Campaign 713,Campaign 713_NA44,Email,VZ39,55
+product 3,Campaign 953,Campaign 953_LH40,Email,IM59,32
+product 5,Campaign Y,Campaign Y_JQ14,Android channel,GD82,29
+product 3,Campaign 328,Campaign 328_NL95,Email,DI10,126
+product 3,Campaign 625,Campaign 625_WT16,Mobile (SMS),QC58,52
+product 5,Campaign 258,Campaign 258_IS76,Email,NX41,5
+product 3,Campaign 259,Campaign 259_BF35,Email,JU10,117
+product 5,Campaign 290,Campaign 290_LK73,Web Message,LO39,26
+product 5,Campaign BL,Campaign BL_HV26,Email,QK49,4
+product 5,Campaign 548,Campaign 548_VO40,Email,ZE95,432
+product 1,Campaign A,Campaign A_XE77,Email,LY62,102
+product 1,Campaign A,Campaign A_TQ78,Email,WB40,31
+product 1,Campaign N,Campaign N_RL94,Web Message,QP29,4
+product 3,Campaign 871,Campaign 871_XV51,Email,XH63,31
+product 1,Campaign N,Campaign N_DO30,Web Message,EG81,4
+product 4,Campaign 922,Campaign 922_WK33,Email,RA62,20
+product 5,Campaign Z,Campaign Z_OZ20,Email,IV73,656
+product 3,Campaign 467,Campaign 467_NN13,Email,XY85,29
+product 4,Campaign 467,Campaign 467_UD54,Email,RY12,16
+product 3,Campaign 494,Campaign 494_PH39,Email,ON89,31
+product 3,Campaign 786,Campaign 786_LK28,Email,NV23,4
+product 1,Campaign J,Campaign J_OB27,Email,HB20,26
+product 5,Campaign Z,Campaign Z_TQ36,Email,BK58,91
+product 3,Campaign BH,Campaign BH_QG22,Web Message,NS10,58
+product 4,Campaign BJ,Campaign BJ_TC35,Email,QK21,257
+product 5,Campaign A,Campaign A_TE48,Email,XA42,20
+product 4,Campaign 233,Campaign 233_TM80,Email,QW12,8
+product 4,Campaign 583,Campaign 583_PK93,Email,YO86,31
+product 3,Campaign 207,Campaign 207_FV10,Email,VC57,46
+product 4,Campaign 217,Campaign 217_YO75,Email,SG51,31
+product 5,Campaign BA,Campaign BA_RO11,Email,PZ57,253
+product 3,Campaign 323,Campaign 323_VM37,Email,MP47,23
+product 5,Campaign Y,Campaign Y_ER24,iOS channel,OQ49,97
+product 5,Campaign X,Campaign X_AL47,Mobile (SMS),GT10,56
+product 4,Campaign 390,Campaign 390_WY20,Email,FO30,30
+product 3,Campaign 540,Campaign 540_XP84,Mobile (SMS),KZ12,131
+product 3,Campaign 646,Campaign 646_BE27,Email,ZI51,31
+product 5,Campaign 173,Campaign 173_AY50,Email,FH12,354
+product 3,Campaign 160,Campaign 160_SK89,Email,HQ36,48
+product 3,Campaign 715,Campaign 715_GV88,Email,JG47,16
+product 1,Campaign BL,Campaign BL_IZ74,Web Message,XK80,104
+product 3,Campaign 529,Campaign 529_XW90,Web Message,SR30,16
+product 1,Campaign A,Campaign A_FT25,Email,SY72,24
+product 5,Campaign 835,Campaign 835_CO84,Web Message,IV23,23
+product 1,Campaign A,Campaign A_AH40,Email,RY81,31
+product 1,Campaign 985,Campaign 985_OH42,iOS channel,HF60,4
+product 2,Campaign A,Campaign A_ZM38,Email,CN92,14
+product 5,Campaign 142,Campaign 142_DH60,Email,HS29,5
+product 2,Campaign N,Campaign N_GY10,iOS channel,IH81,33
+product 5,Campaign Y,Campaign Y_PH44,Email,AB31,104
+product 2,Campaign K,Campaign K_IQ95,Web Message,CP16,5
+product 3,Campaign 610,Campaign 610_SK59,Email,SQ79,974
+product 5,Campaign 614,Campaign 614_AP97,Web Message,OS58,6
+product 3,Campaign 544,Campaign 544_SI41,Email,DJ75,7
+product 3,Campaign 651,Campaign 651_AW31,Email,LT61,76
+product 5,Campaign BC,Campaign BC_TF89,Email,QK45,216
+product 5,Campaign 527,Campaign 527_NE66,Email,IG50,346
+product 1,Campaign A,Campaign A_VW20,Email,AF65,102
+product 4,Campaign 60,Campaign 60_UY90,Email,UJ82,29
+product 1,Campaign N,Campaign N_BL22,Web Message,OV67,4
+product 5,Campaign A,Campaign A_NH17,Email,QK10,4
+product 4,Campaign 553,Campaign 553_OK81,Email,AK78,16
+product 5,Campaign X,Campaign X_XO55,Mobile (SMS),OO11,54
+product 3,Campaign 990,Campaign 990_VB51,Email,ME84,31
+product 3,Campaign BH,Campaign BH_MK98,Email,NO40,257
+product 1,Campaign X,Campaign X_KN90,Mobile (SMS),UX61,213
+product 5,Campaign 875,Campaign 875_XT43,Web Message,DE31,21
+product 4,Campaign BJ,Campaign BJ_RG80,Email,ON37,258
+product 1,Campaign N,Campaign N_BW74,Email,BS86,4
+product 2,Campaign 714,Campaign 714_IZ62,Android channel,DG56,4
+product 4,Campaign 399,Campaign 399_IH84,Email,YG32,30
+product 1,Campaign M,Campaign M_DP95,Email,CK88,5
+product 3,Campaign 393,Campaign 393_VF52,Email,RO94,4
+product 3,Campaign BH,Campaign BH_YT45,Web Message,VX24,37
+product 1,Campaign K,Campaign K_FP88,Web Message,YS21,8
+product 3,Campaign 786,Campaign 786_JI94,Email,NS72,41
+product 1,Campaign A,Campaign A_YW10,Email,RT34,31
+product 4,Campaign 434,Campaign 434_YL93,Email,EC17,31
+product 5,Campaign A,Campaign A_PL58,Email,FC49,22
+product 5,Campaign 351,Campaign 351_AU47,Email,AW56,4
+product 5,Campaign BB,Campaign BB_CK29,Email,DH36,53
+product 5,Campaign Z,Campaign Z_NI36,Email,RX32,257
+product 5,Campaign Y,Campaign Y_HR78,Mobile (SMS),YU17,104
+product 3,Campaign 682,Campaign 682_UI55,Email,QP95,894
+product 1,Campaign A,Campaign A_TL12,Email,LW54,31
+product 2,Campaign N,Campaign N_VC96,Web Message,LJ48,10
+product 2,Campaign D,Campaign D_MP94,Email,KX99,9
+product 1,Campaign N,Campaign N_SM26,Email,XD76,4
+product 4,Campaign 129,Campaign 129_JX28,Email,AI14,13
+product 5,Campaign BC,Campaign BC_FK91,Email,ON35,216
+product 1,Campaign I,Campaign I_UR27,Android channel,PT27,4
+product 1,Campaign L,Campaign L_GV63,Email,RU44,4
+product 1,Campaign A,Campaign A_SR76,Email,MS47,17
+product 5,Campaign Y,Campaign Y_KZ62,Mobile (SMS),XH51,15
+product 3,Campaign 29,Campaign 29_QY91,Web Message,YR14,31
+product 1,Campaign 171,Campaign 171_NE98,Web Message,RZ86,5
+product 5,Campaign Y,Campaign Y_FV22,Email,NA92,104
+product 5,Campaign 34,Campaign 34_ND78,Email,TX47,4
+product 3,Campaign 979,Campaign 979_IW94,Email,LI72,44
+product 3,Campaign 397,Campaign 397_QV36,Email,XI77,31
+product 3,Campaign 959,Campaign 959_KF82,Email,OI28,62
+product 5,Campaign Y,Campaign Y_TD22,Mobile (SMS),FO23,15
+product 2,Campaign A,Campaign A_UB46,Email,QC24,31
+product 3,Campaign BH,Campaign BH_HA91,Web Message,FN24,254
+product 5,Campaign 153,Campaign 153_XC70,Web Message,WK65,20
+product 3,Campaign 91,Campaign 91_NI44,Email,WW66,20
+product 3,Campaign 98,Campaign 98_XF61,Email,ZK66,16
+product 2,Campaign A,Campaign A_NP49,Email,YX67,5
+product 1,Campaign K,Campaign K_LG64,Web Message,JT52,5
+product 1,Campaign Y,Campaign Y_KR60,Email,PV92,22
+product 5,Campaign 253,Campaign 253_GX56,Email,QQ62,4
+product 1,Campaign A,Campaign A_RC36,Email,GD93,22
+product 5,Campaign X,Campaign X_OJ12,Email,AH11,31
+product 1,Campaign 100,Campaign 100_VM71,Email,GM35,4
+product 5,Campaign BC,Campaign BC_OW88,Email,VL37,259
+product 2,Campaign K,Campaign K_YW49,Web Message,VJ72,5
+product 3,Campaign BH,Campaign BH_UZ29,Web Message,OH26,256
+product 3,Campaign 318,Campaign 318_IA31,Email,QW89,611
+product 2,Campaign N,Campaign N_VK12,Web Message,XY82,4
+product 1,Campaign N,Campaign N_EC91,Web Message,LE11,4
+product 3,Campaign BH,Campaign BH_KT72,Web Message,WO12,254
+product 3,Campaign BG,Campaign BG_PY73,Web Message,NG98,1195
+product 3,Campaign 672,Campaign 672_RY87,Email,IH78,14
+product 5,Campaign X,Campaign X_OK72,Email,YR47,33
+product 5,Campaign X,Campaign X_SN50,Email,BK36,107
+product 5,Campaign A,Campaign A_IQ20,Email,YU30,18
+product 1,Campaign 359,Campaign 359_SB38,Email,TD29,4
+product 5,Campaign AY,Campaign AY_DJ61,Web Message,ZZ84,9
+product 1,Campaign D,Campaign D_BK63,Email,FM37,31
+product 5,Campaign 889,Campaign 889_MH64,Email,MK38,4
+product 1,Campaign A,Campaign A_TX18,Email,HJ90,31
+product 5,Campaign Y,Campaign Y_SN38,Email,EV56,104
+product 5,Campaign 744,Campaign 744_FD93,Email,TB87,4
+product 1,Campaign Y,Campaign Y_QL91,Android channel,FM71,105
+product 1,Campaign 436,Campaign 436_WB84,iOS channel,RU42,9
+product 5,Campaign X,Campaign X_EW65,Mobile (SMS),XO66,17
+product 1,Campaign Y,Campaign Y_SU35,Web Message,IQ86,104
+product 4,Campaign 274,Campaign 274_UJ52,Email,NO22,29
+product 4,Campaign 898,Campaign 898_SF64,Email,QD42,16
+product 5,Campaign AY,Campaign AY_LW55,Web Message,YL20,9
+product 5,Campaign BA,Campaign BA_UW75,Email,XD64,240
+product 1,Campaign 964,Campaign 964_DL24,Email,TN14,66
+product 2,Campaign 158,Campaign 158_NA61,iOS channel,IW68,29
+product 2,Campaign K,Campaign K_ZV30,Android channel,AJ86,25
+product 2,Campaign 883,Campaign 883_CT37,iOS channel,ZT72,6
+product 1,Campaign BR,Campaign BR_YU87,Email,RR91,33
+product 1,Campaign N,Campaign N_HB55,Web Message,TF82,4
+product 3,Campaign BH,Campaign BH_VM30,Web Message,AH12,17
+product 1,Campaign 238,Campaign 238_CE92,Email,TV59,79
+product 5,Campaign 138,Campaign 138_GX68,Email,MU72,4
+product 3,Campaign 373,Campaign 373_HH40,Email,UA23,10
+product 3,Campaign BH,Campaign BH_VZ80,Web Message,YO19,256
+product 4,Campaign 562,Campaign 562_OH93,Email,WC27,26
+product 5,Campaign 321,Campaign 321_YS71,Email,IV34,4
+product 3,Campaign AO,Campaign AO_PH57,Email,OZ17,212
+product 1,Campaign N,Campaign N_LS44,Web Message,BW11,4
+product 3,Campaign 490,Campaign 490_XE12,Email,UG30,63
+product 5,Campaign Z,Campaign Z_CB35,Email,GB92,433
+product 5,Campaign X,Campaign X_FG84,Email,YA27,7
+product 3,Campaign 656,Campaign 656_XT36,Mobile (SMS),LC31,230
+product 5,Campaign 986,Campaign 986_LP88,Email,XV58,4
+product 1,Campaign BN,Campaign BN_TU65,iOS channel,EH83,230
+product 5,Campaign Y,Campaign Y_HZ31,Email,YK66,104
+product 1,Campaign N,Campaign N_TO54,Web Message,YT68,8
+product 2,Campaign 367,Campaign 367_OA39,Android channel,GJ95,14
+product 3,Campaign 814,Campaign 814_HW17,Mobile (SMS),OJ68,60
+product 3,Campaign 279,Campaign 279_WC70,Email,MJ24,21
+product 1,Campaign J,Campaign J_ES50,Email,AD16,26
+product 5,Campaign Y,Campaign Y_QI92,Mobile (SMS),FG41,104
+product 3,Campaign 770,Campaign 770_GV50,Email,CH21,62
+product 5,Campaign BB,Campaign BB_GB20,Email,OV64,219
+product 5,Campaign 842,Campaign 842_ZJ48,Web Message,PN30,4
+product 2,Campaign K,Campaign K_AU73,Email,DD95,4
+product 3,Campaign AO,Campaign AO_GC22,Mobile (SMS),KD77,75
+product 1,Campaign 119,Campaign 119_ZD47,Web Message,YI84,4
+product 3,Campaign 116,Campaign 116_WC96,Email,JM63,91
+product 2,Campaign 32,Campaign 32_QN45,Android channel,OC79,19
+product 4,Campaign 806,Campaign 806_ZC29,Email,NT76,6
+product 4,Campaign 439,Campaign 439_IA79,Email,UH44,31
+product 2,Campaign N,Campaign N_ES74,Android channel,ZC21,33
+product 2,Campaign N,Campaign N_GN41,Web Message,OK11,5
+product 3,Campaign 716,Campaign 716_EN96,Email,CW64,21
+product 2,Campaign N,Campaign N_NI27,Web Message,CS65,4
+product 2,Campaign K,Campaign K_SD32,Web Message,KT65,5
+product 5,Campaign BC,Campaign BC_MV37,Email,XB98,259
+product 5,Campaign Y,Campaign Y_LK62,Email,DF35,104
+product 3,Campaign BH,Campaign BH_UK56,Web Message,FO47,59
+product 4,Campaign 938,Campaign 938_RT81,Email,AQ32,28
+product 2,Campaign N,Campaign N_ZP89,iOS channel,ND71,17
+product 1,Campaign 612,Campaign 612_KX77,Email,HF26,5
+product 5,Campaign BA,Campaign BA_CC93,Email,FO39,246
+product 1,Campaign 202,Campaign 202_KV73,iOS channel,LK36,34
+product 1,Campaign 946,Campaign 946_ID40,Web Message,LP13,4
+product 5,Campaign 768,Campaign 768_OS84,Email,RC98,374
+product 5,Campaign Y,Campaign Y_VR20,Mobile (SMS),YB69,56
+product 5,Campaign A,Campaign A_DI65,Email,YR93,95
+product 5,Campaign BV,Campaign BV_EO39,Email,BL26,253
+product 4,Campaign BJ,Campaign BJ_PL46,Email,VJ28,258
+product 1,Campaign A,Campaign A_AD58,Email,OO78,23
+product 5,Campaign 819,Campaign 819_UF97,Email,JL19,5
+product 1,Campaign N,Campaign N_IY84,Email,LX12,12
+product 4,Campaign 230,Campaign 230_LX62,Email,SP50,16
+product 3,Campaign 310,Campaign 310_CM56,Email,MF76,942
+product 5,Campaign 92,Campaign 92_LT45,Email,EG53,459
+product 2,Campaign A,Campaign A_GJ48,Email,MA41,24
+product 1,Campaign N,Campaign N_OT22,Web Message,ZP53,4
+product 1,Campaign M,Campaign M_DV10,Email,TJ53,5
+product 1,Campaign L,Campaign L_TB71,Mobile (SMS),XZ16,4
+product 1,Campaign 960,Campaign 960_ES28,Android channel,RQ10,5
+product 5,Campaign 193,Campaign 193_YU50,Email,DJ15,4
+product 5,Campaign 801,Campaign 801_PH73,Email,ZO40,4
+product 2,Campaign N,Campaign N_OP99,Web Message,BA15,4
+product 3,Campaign 760,Campaign 760_BB79,Email,EQ67,7
+product 1,Campaign A,Campaign A_DB88,Email,DZ95,25
+product 3,Campaign 201,Campaign 201_XV57,Email,DP86,5
+product 5,Campaign X,Campaign X_WG89,Email,IE46,224
+product 1,Campaign BR,Campaign BR_KR29,iOS channel,XI20,34
+product 2,Campaign A,Campaign A_DA37,Email,QM15,6
+product 3,Campaign AO,Campaign AO_OD13,Email,KS28,206
+product 4,Campaign 678,Campaign 678_KF28,Email,KD85,29
+product 5,Campaign BA,Campaign BA_TV14,Email,CA55,253
+product 1,Campaign H,Campaign H_UY52,iOS channel,WR54,58
+product 2,Campaign A,Campaign A_KJ41,Email,BB90,24
+product 3,Campaign 426,Campaign 426_GG27,Email,XR20,48
+product 5,Campaign BC,Campaign BC_ZQ84,Email,VN98,259
+product 1,Campaign 603,Campaign 603_ZD95,Email,VS64,16
+product 3,Campaign 339,Campaign 339_MA90,Email,JO43,26
+product 5,Campaign X,Campaign X_TF64,Email,OJ55,114
+product 3,Campaign 160,Campaign 160_YG51,Email,XU74,21
+product 5,Campaign Y,Campaign Y_VJ72,iOS channel,PU33,34
+product 1,Campaign K,Campaign K_OP89,Android channel,SZ63,39
+product 1,Campaign A,Campaign A_RP52,Email,IU62,24
+product 1,Campaign N,Campaign N_II61,iOS channel,YI57,34
+product 5,Campaign Y,Campaign Y_SJ58,Email,EU31,104
+product 3,Campaign 476,Campaign 476_FS12,Mobile (SMS),RE49,185
+product 5,Campaign 876,Campaign 876_ZA54,Web Message,LA51,23
+product 1,Campaign J,Campaign J_YA89,Email,TF36,30
+product 1,Campaign K,Campaign K_BG80,Web Message,DX97,6
+product 5,Campaign 432,Campaign 432_BI95,Email,PI18,306
+product 4,Campaign 132,Campaign 132_JT96,Email,LJ44,31
+product 5,Campaign BL,Campaign BL_JS27,Email,BK88,255
+product 5,Campaign 917,Campaign 917_LQ36,Email,KP61,4
+product 3,Campaign 337,Campaign 337_KL62,Email,GW45,30
+product 5,Campaign 186,Campaign 186_CT57,Web Message,NI71,16
+product 1,Campaign 877,Campaign 877_EC53,Web Message,XX53,4
+product 5,Campaign Y,Campaign Y_FX68,Mobile (SMS),QZ95,60
+product 2,Campaign A,Campaign A_JU95,Email,YI55,31
+product 2,Campaign Y,Campaign Y_WR91,Mobile (SMS),ST13,4
+product 1,Campaign BR,Campaign BR_PZ84,iOS channel,KS66,12
+product 3,Campaign 339,Campaign 339_GX67,Email,BB44,31
+product 2,Campaign A,Campaign A_WJ48,Email,GF14,5
+product 5,Campaign 929,Campaign 929_IZ97,Email,WE80,4
+product 3,Campaign 575,Campaign 575_KS62,Email,BU78,8
+product 3,Campaign AO,Campaign AO_VK97,Mobile (SMS),HY57,187
+product 5,Campaign AU,Campaign AU_NO26,Email,AT32,161
+product 2,Campaign K,Campaign K_QV52,iOS channel,ID27,32
+product 1,Campaign A,Campaign A_QY45,Email,PV71,102
+product 5,Campaign Y,Campaign Y_NC39,Mobile (SMS),YJ53,104
+product 3,Campaign 145,Campaign 145_UQ98,Email,SH53,87
+product 5,Campaign 783,Campaign 783_LA32,Web Message,VK37,5
+product 2,Campaign A,Campaign A_ND76,Email,HA87,84
+product 5,Campaign Y,Campaign Y_JO83,Email,WJ83,104
+product 3,Campaign BH,Campaign BH_IF36,Web Message,YV38,257
+product 5,Campaign Y,Campaign Y_KU48,Web Message,GT11,104
+product 2,Campaign A,Campaign A_IW99,Email,TW30,31
+product 5,Campaign X,Campaign X_XH58,Email,YT27,253
+product 4,Campaign 884,Campaign 884_KC68,Email,GT28,31
+product 3,Campaign 129,Campaign 129_CW90,Email,HY25,31
+product 5,Campaign A,Campaign A_ZH35,Email,HK89,17
+product 2,Campaign M,Campaign M_XV92,Email,QK65,5
+product 1,Campaign 982,Campaign 982_HW37,Web Message,OK52,6
+product 5,Campaign 80,Campaign 80_CY72,Email,RH73,5
+product 5,Campaign BC,Campaign BC_HV21,Email,YB32,259
+product 1,Campaign 687,Campaign 687_AH14,Email,JW73,51
+product 1,Campaign A,Campaign A_ZD52,Email,AZ24,29
+product 5,Campaign X,Campaign X_TD51,Mobile (SMS),NA72,112
+product 1,Campaign A,Campaign A_PG96,Email,PX46,31
+product 5,Campaign A,Campaign A_TT79,Email,YU32,95
+product 2,Campaign A,Campaign A_DC46,Email,EB59,23
+product 3,Campaign 783,Campaign 783_WE14,Email,ZT59,41
+product 1,Campaign Y,Campaign Y_SV14,Mobile (SMS),PU52,22
+product 1,Campaign N,Campaign N_KG13,Web Message,RX40,4
+product 1,Campaign J,Campaign J_HQ73,Email,FS45,30
+product 1,Campaign L,Campaign L_BS93,Mobile (SMS),VY26,14
+product 1,Campaign J,Campaign J_EZ85,Email,NR15,26
+product 2,Campaign A,Campaign A_TL83,Email,QB58,24
+product 1,Campaign K,Campaign K_DP19,Web Message,SV88,7
+product 3,Campaign 755,Campaign 755_VR74,Email,KH27,31
+product 1,Campaign BT,Campaign BT_OH46,Web Message,NN75,4
+product 2,Campaign M,Campaign M_BC49,Email,EV40,5
+product 5,Campaign BL,Campaign BL_TD64,Email,BE81,255
+product 1,Campaign N,Campaign N_YH60,Web Message,JL69,4
+product 1,Campaign A,Campaign A_DK99,Email,CU74,24
+product 3,Campaign AO,Campaign AO_WD35,Mobile (SMS),SL10,83
+product 1,Campaign A,Campaign A_EY47,Email,UW27,31
+product 3,Campaign X,Campaign X_BR94,Email,OW38,16
+product 1,Campaign BT,Campaign BT_KZ70,Mobile (SMS),DJ74,9
+product 4,Campaign 220,Campaign 220_BE90,Email,QL75,31
+product 1,Campaign A,Campaign A_XQ13,Email,TB59,24
+product 2,Campaign 263,Campaign 263_AV39,iOS channel,MZ81,4
+product 5,Campaign Y,Campaign Y_JF81,Mobile (SMS),MN85,104
+product 1,Campaign M,Campaign M_ZZ45,Email,CQ88,5
+product 4,Campaign BJ,Campaign BJ_SZ14,Email,IJ83,258
+product 1,Campaign A,Campaign A_FU27,Email,RL31,10
+product 3,Campaign BH,Campaign BH_UU40,Web Message,UH71,252
+product 1,Campaign N,Campaign N_NH27,Web Message,JD86,11
+product 3,Campaign 93,Campaign 93_AQ64,Email,WS78,72
+product 2,Campaign N,Campaign N_WM11,Web Message,HB59,5
+product 4,Campaign 840,Campaign 840_NX26,Email,JS48,5
+product 1,Campaign N,Campaign N_YW53,Web Message,UH56,4
+product 5,Campaign 290,Campaign 290_PT20,Email,NO25,4
+product 5,Campaign 740,Campaign 740_WF16,Email,LO52,4
+product 4,Campaign 344,Campaign 344_VF81,Email,PZ39,31
+product 4,Campaign 383,Campaign 383_UQ76,Email,FQ11,4
+product 3,Campaign 832,Campaign 832_EU93,Email,GN45,31
+product 1,Campaign N,Campaign N_YN41,Web Message,PU16,4
+product 5,Campaign Z,Campaign Z_LV10,Email,DI73,439
+product 3,Campaign AO,Campaign AO_SP87,Email,IM72,78
+product 5,Campaign X,Campaign X_IC58,Mobile (SMS),FU82,8
+product 3,Campaign 302,Campaign 302_VE17,Email,WL58,20
+product 1,Campaign 298,Campaign 298_UQ47,Web Message,WJ47,4
+product 3,Campaign BH,Campaign BH_PQ62,Web Message,AV80,245
+product 4,Campaign BJ,Campaign BJ_PT18,Email,JH14,257
+product 4,Campaign 632,Campaign 632_ES58,Email,EC17,30
+product 1,Campaign BR,Campaign BR_LV35,iOS channel,AZ96,30
+product 3,Campaign BH,Campaign BH_IW48,Email,CJ84,258
+product 5,Campaign X,Campaign X_GC65,Email,EF35,4
+product 5,Campaign 579,Campaign 579_SV38,Web Message,GJ51,8
+product 5,Campaign Y,Campaign Y_ZN37,Web Message,VL20,104
+product 4,Campaign 246,Campaign 246_TH16,Email,QE50,29
+product 1,Campaign N,Campaign N_MA79,Email,EI83,4
+product 1,Campaign X,Campaign X_YE26,Email,LB15,213
+product 2,Campaign A,Campaign A_RB41,Email,TE62,31
+product 5,Campaign A,Campaign A_GX99,Email,KP29,20
+product 4,Campaign 269,Campaign 269_EQ54,Email,EW96,8
+product 5,Campaign BC,Campaign BC_GM85,Email,TF20,259
+product 5,Campaign BL,Campaign BL_EP41,Email,GC21,255
+product 1,Campaign H,Campaign H_OG95,iOS channel,NS79,5
+product 1,Campaign N,Campaign N_RG99,iOS channel,HJ69,16
+product 5,Campaign Y,Campaign Y_SO52,Email,RL20,104
+product 1,Campaign N,Campaign N_ZC99,Web Message,KT92,8
+product 4,Campaign BJ,Campaign BJ_XS78,Email,WQ80,258
+product 3,Campaign BG,Campaign BG_LU91,Web Message,VS74,120
+product 5,Campaign X,Campaign X_EX21,Email,OA65,226
+product 5,Campaign BV,Campaign BV_RQ46,Email,DR48,253
+product 5,Campaign 69,Campaign 69_ZV46,Email,HW94,4
+product 5,Campaign 571,Campaign 571_AH12,Email,IP75,386
+product 3,Campaign 261,Campaign 261_HL38,Email,MZ24,30
+product 5,Campaign AY,Campaign AY_GI61,Web Message,FP52,6
+product 1,Campaign 445,Campaign 445_WX80,iOS channel,FM97,21
+product 3,Campaign 514,Campaign 514_SP53,Email,MT89,62
+product 1,Campaign K,Campaign K_TV48,iOS channel,RV84,32
+product 1,Campaign K,Campaign K_MT92,Web Message,NN89,5
