@@ -45,7 +45,7 @@ no_auto_sends = sends
 #### - Using variables above to create csv from MAF import - may need to comment out depending on data source
 campaignCounts = maf.AllProductsCampaignCounts(start_date, end_date, no_auto_sends)
 ProductRatio = maf.AllProducts(start_date, end_date, no_auto_sends)
-CampaignDeliveries = maf.Campaign_Deliveries(start_date, end_date, no_auto_sends)      # CSV of deliveries of each automated campaign 
+Campaign_Deliveries = maf.Campaign_Deliveries(start_date, end_date, no_auto_sends)      # CSV of deliveries of each automated campaign 
 
 
 #Reading the csv and bringing it through as dataframes
