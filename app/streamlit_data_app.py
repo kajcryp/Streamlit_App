@@ -13,7 +13,7 @@ import pandas as pd
 import altair as alt
 import plotly.express as px
 
-#import Streamlit_Manual_automated_Functions as maf
+import Streamlit_Manual_automated_Functions as maf
 
 
 
@@ -45,8 +45,10 @@ no_auto_sends = sends
 #### - Using variables above to create csv from MAF import - may need to comment out depending on data source
 campaignCounts = maf.AllProductsCampaignCounts(start_date, end_date, no_auto_sends)
 ProductRatio = maf.AllProducts(start_date, end_date, no_auto_sends)
-Deliveries = maf.Campaign_Deliveries(start_date, end_date, no_auto_sends)      # CSV of deliveries of each automated campaign 
+Deliveries = maf.Campaign_Deliveries(start_date, end_date, no_auto_sends)      
 
+
+# CSV of deliveries of each automated campaign 
 
 #Reading the csv and bringing it through as dataframes
 df = pd.read_csv("manual_auto_ratio_final.csv")
