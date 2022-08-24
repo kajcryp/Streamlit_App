@@ -1,5 +1,5 @@
 # Streamlit App
-A data web application that was built to show campaign history in a web application
+A data web application that was built to show campaign history.
 
 # PostgreSQL Scripts
  Campaign_Counts_All.sql 
