@@ -5,7 +5,7 @@
 import datetime
 import streamlit as st
 import streamlit.components.v1 as components
-from streamlit import caching
+#from streamlit import caching
 import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -118,7 +118,7 @@ for product in product_groups:
         
         st.pyplot(fig) #this is how you how to render your plots on streamlit
         
-        data_table = st.beta_expander("Data Table - (Click here to expand!)", expanded = False)
+        data_table = st.expander("Data Table - (Click here to expand!)", expanded = False)
         
         with data_table:
             #Showing the data table
@@ -164,7 +164,7 @@ for product in product_groups:
         elif close_delivery_button:
             pass
         
-        row3_space1, col1, row3_space2, col2, row3_space3 = st.beta_columns((.1, 1, .5, 1, .1))  #Setting layout of the app
+        row3_space1, col1, row3_space2, col2, row3_space3 = st.columns((.1, 1, .5, 1, .1))  #Setting layout of the app
         #col1, col2 = st.beta_columns(2)
         
         with col1:
